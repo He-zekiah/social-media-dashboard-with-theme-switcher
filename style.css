@@ -125,15 +125,9 @@
     transition: all 0.5s ease;
 }
 
-.cont3 {
-    color: black;
-}
-
 .cont2 {
     background-color: hsl(225, 100%, 98%);
 }
-
-
 
 .info {
     display: flex;
@@ -164,6 +158,17 @@
     font-weight: bold;
     text-align: center;
     transition: all 0.5s ease;
+}
+
+.number2 {
+    font-size: 23px;
+    font-weight: bold;
+    color: #fff;
+    transition: all 0.5s ease;
+}
+
+.cont3 {
+    color: black;
 }
 
 .common {
@@ -204,6 +209,10 @@
     color: #fff;
 }
 
+.cont4 {
+    color: black;
+}
+
 .box2 {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
@@ -232,13 +241,6 @@
 .name2 {
     color: hsl(228, 34%, 66%);
     font-size: 13px;
-}
-
-.number2 {
-    font-size: 23px;
-    font-weight: bold;
-    color: #fff;
-    transition: all 0.5s ease;
 }
 
 .date2 {
